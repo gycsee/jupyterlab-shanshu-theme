@@ -295,7 +295,7 @@ div::-webkit-scrollbar-thumb, ul::-webkit-scrollbar-thumb {
 }
 
 #jp-MainLogo {
-  background-image: var(--jp-icon-jupyter);
+  background-image: var(--jp-image-topbar-logo);
   background-position: center center;
   background-size: cover;
   width: 24px;
